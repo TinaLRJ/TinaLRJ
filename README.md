@@ -4,6 +4,10 @@
 * **2023-11-07- Our paper "Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection" is accepted by TNNLS 2023. Code is available at [DTUM](https://github.com/TinaLRJ/Multi-frame-infrared-small-target-detection-DTUM).**
 <br><br>
 
+![](https://github-readme-stats.vercel.app/api?username=TinaLRJ&show_icons=true&hide=contribs,issues&cache_seconds=86400&theme=default)
+
+
+
 <!--
 **TinaLRJ/TinaLRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
