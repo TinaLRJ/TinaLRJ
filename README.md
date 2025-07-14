@@ -1,4 +1,8 @@
-## Hi there 👋
+## 🌱News🌱 
+
+* **2025-03-10- Our paper "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines" is accepted by TPAMI 2025. Code is available at [RGBT-Tiny](https://github.com/XinyiYing/RGBT-Tiny/).**
+* **2023-11-07- Our paper "Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection" is accepted by TNNLS 2023. Code is available at [DTUM](https://github.com/TinaLRJ/Multi-frame-infrared-small-target-detection-DTUM).**
+<br><br>
 
 <!--
 **TinaLRJ/TinaLRJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
