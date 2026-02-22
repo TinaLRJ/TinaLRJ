@@ -1,5 +1,6 @@
 ## 🌱News🌱 
 
+* **2026-02-02- Our paper "Dynamic High-frequency Convolution for Infrared Small Target Detection"  is accepted by *IEEE TCSVT* 2026. Code is available at [DHiF](https://github.com/TinaLRJ/DHiF).**
 * **2026-01-27- Our paper on the [SatVideoIRSDT](https://videoirstd.github.io/) dataset "Infrared Video Satellite Aerial Moving Target Detection Dataset and Its Evaluation" is accepted by *Journal of Image and Graphics* 2026. Dataset is available at [Science Data Bank](https://doi.org/10.57760/sciencedb.j00240.00077), and the evaluation is also available at [DeepPro](https://github.com/TinaLRJ/DeepPro).**
 * **2025-03-10- Our paper "Visible-Thermal Tiny Object Detection: A Benchmark Dataset and Baselines" is accepted by *IEEE TPAMI* 2025. Code is available at [RGBT-Tiny](https://github.com/XinyiYing/RGBT-Tiny).**
 * **2023-11-07- Our paper "Direction-Coded Temporal U-Shape Module for Multiframe Infrared Small Target Detection" is accepted by *IEEE TNNLS* 2023. Code is available at [DTUM](https://github.com/TinaLRJ/Multi-frame-infrared-small-target-detection-DTUM).**
